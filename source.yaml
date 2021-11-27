@@ -2,22 +2,22 @@
 - type: webfuzzsub
   options:
     url: https://raw.githubusercontent.com/du5/free/master/sub.list
-	
+
 # 模糊抓取订阅链接2
 - type: webfuzzsub
   options:
     url: https://github.com/huaxinCLUB/NodeSpider/tree/master/WebSite
-	
+
 # 模糊抓取订阅链接3
 - type: webfuzzsub
   options:
     url: https://github.com/clashconfig/online
-   
+ 
 # 模糊抓取订阅链接4
 - type: webfuzzsub
   options:
     url: https://raw.githubusercontent.com/shoujiyanxishe/atu/main/etsub.list
-      
+  
 # 模糊抓取订阅链接5
 - type: webfuzzsub
   options:
@@ -27,7 +27,7 @@
 - type: webfuzzsub
   options:
     url: http://i.sqeven.me/know/detail/103
-    
+ 
 # 模糊抓取订阅链接7
 - type: webfuzzsub
   options:
@@ -37,7 +37,7 @@
 - type: webfuzzsub
   options:
     url: http://i.sqeven.me/know/detail/100
-    
+
 # 模糊抓取订阅链接9
 - type: webfuzzsub
   options:
