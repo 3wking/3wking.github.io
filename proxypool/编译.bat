@@ -4,23 +4,23 @@ color 0d
 :Menu
 Cls
 @ echo.==================================
-@ echo. ¡¾°Ñ½Å±¾·ÅÈëÔ´ÂëÎÄ¼þ¼ÐµÄÄ¿Â¼ÏÂ¡¿
+@ echo. ã€æŠŠè„šæœ¬æ”¾å…¥æºç æ–‡ä»¶å¤¹çš„ç›®å½•ä¸‹ã€‘
 @ echo.==================================
-@ echo. ¡¾°²×°Golang¡¿¡¾¸ù¾ÝÏµÍ³Ñ¡Ôñ¡¿
+@ echo. ã€å®‰è£…Golangã€‘ã€æ ¹æ®ç³»ç»Ÿé€‰æ‹©ã€‘
 @ echo.==================================
-@ echo.      [liunx64]  ¡ú ÇëÊäÈë1
+@ echo.      [liunx64]  â†’ è¯·è¾“å…¥1
 @ echo.==================================
-@ echo.      [liunx32]  ¡ú ÇëÊäÈë2
+@ echo.      [liunx32]  â†’ è¯·è¾“å…¥2
 @ echo.==================================
-@ echo.      [x86_64]  ¡ú  ÇëÊäÈë3
+@ echo.      [x86_64]  â†’  è¯·è¾“å…¥3
 @ echo.==================================
-@ echo.      [x86_32]  ¡ú  ÇëÊäÈë4
+@ echo.      [x86_32]  â†’  è¯·è¾“å…¥4
 @ echo.==================================
-@ echo.      [mac_64]  ¡ú  ÇëÊäÈë5
+@ echo.      [mac_64]  â†’  è¯·è¾“å…¥5
 @ echo.==================================
-@ echo.      [mac_32]  ¡ú  ÇëÊäÈë6
+@ echo.      [mac_32]  â†’  è¯·è¾“å…¥6
 @ echo.==================================
-set /p xj= ÊäÈëÊý×Ö°´»Ø³µ£º
+set /p xj= è¾“å…¥æ•°å­—æŒ‰å›žè½¦ï¼š
 if /i "%xj%"=="1" Goto liunx_x64
 if /i "%xj%"=="2" Goto liunx_X32
 if /i "%xj%"=="3" Goto x86_X64
@@ -28,7 +28,7 @@ if /i "%xj%"=="4" Goto x86_X32
 if /i "%xj%"=="5" Goto mac_X64
 if /i "%xj%"=="6" Goto mac_X32
 @ echo.
-echo      Ñ¡ÔñÎÞÐ§£¬ÇëÖØÐÂÊäÈë
+echo      é€‰æ‹©æ— æ•ˆï¼Œè¯·é‡æ–°è¾“å…¥
 ping -n 2 127.1>nul
 goto menu
 ========================================================================
@@ -36,9 +36,9 @@ goto menu
 @ echo.
 SET CGO_ENABLED=0&& SET GOOS=linux&& SET GOARCH=amd64&& go build
 @ echo.======================
-@ echo.=  ÎÞ±¨´íÎª±àÒëÍê³É  =
+@ echo.=  æ— æŠ¥é”™ä¸ºç¼–è¯‘å®Œæˆ  =
 @ echo.======================
-@ echo.·µ»ØÖ÷²Ëµ¥ & pause
+@ echo.è¿”å›žä¸»èœå• & pause
 cd ..
 goto Menu
 ========================================================================
@@ -46,9 +46,9 @@ goto Menu
 @ echo.
 SET CGO_ENABLED=0&& SET GOOS=linux&& SET GOARCH=368&& go build
 @ echo.======================
-@ echo.=  ÎÞ±¨´íÎª±àÒëÍê³É  =
+@ echo.=  æ— æŠ¥é”™ä¸ºç¼–è¯‘å®Œæˆ  =
 @ echo.======================
-@ echo.·µ»ØÖ÷²Ëµ¥ & pause
+@ echo.è¿”å›žä¸»èœå• & pause
 cd ..
 goto Menu
 =========================================================================
@@ -56,9 +56,9 @@ goto Menu
 @ echo.
 SET CGO_ENABLED=0&& SET GOOS=windows&& SET GOARCH=amd64&& go build
 @ echo.======================
-@ echo.=  ÎÞ±¨´íÎª±àÒëÍê³É  =
+@ echo.=  æ— æŠ¥é”™ä¸ºç¼–è¯‘å®Œæˆ  =
 @ echo.======================
-@ echo.·µ»ØÖ÷²Ëµ¥ & pause
+@ echo.è¿”å›žä¸»èœå• & pause
 cd ..
 goto Menu
 =========================================================================
@@ -66,9 +66,9 @@ goto Menu
 @ echo.
 SET CGO_ENABLED=0&& SET GOOS=windows&& SET GOARCH=368&& go build
 @ echo.======================
-@ echo.=  ÎÞ±¨´íÎª±àÒëÍê³É  =
+@ echo.=  æ— æŠ¥é”™ä¸ºç¼–è¯‘å®Œæˆ  =
 @ echo.======================
-@ echo.·µ»ØÖ÷²Ëµ¥ & pause
+@ echo.è¿”å›žä¸»èœå• & pause
 cd ..
 goto Menu
 --------------------------------
@@ -76,9 +76,9 @@ goto Menu
 @ echo.
 SET CGO_ENABLED=0&& SET GOOS=darwin&& SET GOARCH=amd64&& go build
 @ echo.======================
-@ echo.=  ÎÞ±¨´íÎª±àÒëÍê³É  =
+@ echo.=  æ— æŠ¥é”™ä¸ºç¼–è¯‘å®Œæˆ  =
 @ echo.======================
-@ echo.·µ»ØÖ÷²Ëµ¥ & pause
+@ echo.è¿”å›žä¸»èœå• & pause
 cd ..
 goto Menu
 -------------------------------------------
@@ -86,9 +86,9 @@ goto Menu
 @ echo.
 SET CGO_ENABLED=0&& SET GOOS=darwin&& SET GOARCH=368&& go build
 @ echo.======================
-@ echo.=  ÎÞ±¨´íÎª±àÒëÍê³É  =
+@ echo.=  æ— æŠ¥é”™ä¸ºç¼–è¯‘å®Œæˆ  =
 @ echo.======================
-@ echo.·µ»ØÖ÷²Ëµ¥ & pause
+@ echo.è¿”å›žä¸»èœå• & pause
 cd ..
 goto Menu
 --------------------------------------------
