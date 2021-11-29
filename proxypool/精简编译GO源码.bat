@@ -4,11 +4,11 @@ color 0d
 @ echo.  SET CGO_ENABLED=0
 SET CGO_ENABLED=0
 echo. ======================================
-rem ±àÒëÏµÍ³Ñ¡Ôñ GOOS=linux Ä¬ÈÏlinux ,Windows=windows,MAC=darwin
+rem ç¼–è¯‘ç³»ç»Ÿé€‰æ‹© GOOS=linux é»˜è®¤linux ,Windows=windows,MAC=darwin
 @ echo.  SET GOOS=linux
 SET GOOS=linux
 @ echo. ======================================
-rem ±àÒë°æ±¾Ñ¡Ôñ GOARCH=amd64 Ä¬ÈÏ64Î» , 32Î»= 368
+rem ç¼–è¯‘ç‰ˆæœ¬é€‰æ‹© GOARCH=amd64 é»˜è®¤64ä½ , 32ä½= 368
 @ echo.  SET GOARCH=amd64
 SET GOARCH=amd64
 @ echo. ======================================
@@ -18,6 +18,6 @@ go build
 @ echo.
 @ echo.
 @ echo.
-@ echo.°´ÈÎÒâ¼üÍË³ö...
+@ echo.æŒ‰ä»»æ„é”®é€€å‡º...
 pause >nul
 exit
