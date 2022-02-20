@@ -53,10 +53,6 @@
   options:
     url: https://raw.fastgit.org/freefq/free/master/v2
 
-# 模糊抓取订阅链接11
-- type: webfuzzsub
-  options:
-    url: https://www.cfmem.com/
 
 
 #################################################################################
@@ -183,7 +179,7 @@
 # 网页模糊抓取7
 - type: webfuzz
   options:
-    url: https://www.cfmem.com/
+    url: https://www.cfmem.com
     
 
 #################################################################################
@@ -691,7 +687,12 @@
 
 #################################################################################
 
+
 # 某个网站抓取
 - type: web-freessrxyz
   options:
-    url: https://www.cfmem.com/
+    url: https://www.cfmem.com
+    
+# 某个网站抓取
+- type: web-freessrxyz
+  options:
