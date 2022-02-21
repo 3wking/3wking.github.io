@@ -1,54 +1,54 @@
-# 模糊抓取订阅链接/3wking
+# 模糊抓取订阅链接3wking
 - type: webfuzzsub
   options:
     url:https://3wking.github.io/proxypool/proxypool.list
 
-# 模糊抓取订阅链接/3wking
+# 模糊抓取订阅链接3wking
 - type: webfuzzsub
   options:
     url:https://3wking.github.io/proxypool/sub.list
 
-# 模糊抓取订阅链接/du5
+# 模糊抓取订阅链接du5
 - type: webfuzzsub
   options:
     url: https://raw.githubusercontent.com/du5/free/master/sub.list
 
-# 模糊抓取订阅链接/huaxinCLUB
+# 模糊抓取订阅链接huaxinCLUB
 - type: webfuzzsub
   options:
     url: https://github.com/huaxinCLUB/NodeSpider/tree/master/WebSite
 
-# 模糊抓取订阅链接/clashconfig
+# 模糊抓取订阅链接clashconfig
 - type: webfuzzsub
   options:
     url: https://github.com/clashconfig/online
 
-# 模糊抓取订阅链接/shoujiyanxishe
+# 模糊抓取订阅链接shoujiyanxishe
 - type: webfuzzsub
   options:
     url: https://raw.githubusercontent.com/shoujiyanxishe/atu/main/etsub.list
 
-# 模糊抓取订阅链接/shoujiyanxishe
+# 模糊抓取订阅链接shoujiyanxishe
 - type: webfuzzsub
   options:
     url: https://raw.githubusercontent.com/shoujiyanxishe/atu/main/etproxytest
 
-# 模糊抓取订阅链接/i.sqeven.me
+# 模糊抓取订阅链接i.sqeven.me
 - type: webfuzzsub
   options:
     url: http://i.sqeven.me/discuss/detail/104
 
-# 模糊抓取订阅链接/i.sqeven.me
+# 模糊抓取订阅链接i.sqeven.me
 - type: webfuzzsub
   options:
     url: http://i.sqeven.me/discuss/detail/102
 
-# 模糊抓取订阅链接/i.sqeven.me
+# 模糊抓取订阅链接i.sqeven.me
 - type: webfuzzsub
   options:
     url: http://i.sqeven.me/discuss/detail/100
 
-# 模糊抓取订阅链接/raw.fastgit.org
+# 模糊抓取订阅链接raw.fastgit.org
 - type: webfuzzsub
   options:
     url: https://raw.fastgit.org/freefq/free/master/v2
@@ -57,105 +57,106 @@
 
 #################################################################################
 
-# 订阅链接/subscribe
+# 订阅链接subscribe
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/ss-sub
 
-# 订阅链接/subscribe
+# 订阅链接subscribe
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/V2Ray
 
-# 订阅链接/subscribe
+# 订阅链接subscribe
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub
 
-# 订阅链接/subscribe
+# 订阅链接subscribe
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/trojan
 
-# 订阅链接/colatiger
+# 订阅链接colatiger
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/colatiger/v2ray-nodes/master/vmess.md
 
-# 订阅链接/colatiger
+# 订阅链接colatiger
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/colatiger/v2ray-nodes/master/trojan.md
 
-# 订阅链接/colatiger
+# 订阅链接colatiger
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/colatiger/v2ray-nodes/master/ss.md
 
-# 订阅链接/colatiger
+# 订阅链接colatiger
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/colatiger/v2ray-nodes/master/proxy.md
 
-# 订阅链接/adiwzx
+# 订阅链接adiwzx
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.txt
 
-# 订阅链接/shoujiyanxishe
+# 订阅链接shoujiyanxishe
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/shoujiyanxishe/atu/main/v2ray
 
-# 订阅链接/iwxf.netlify.app
+# 订阅链接iwxf.netlify.app
 - type: subscribe
   options:
     url: https://iwxf.netlify.app
 
-# 订阅链接/liushengweinielulu
+# 订阅链接liushengweinielulu
 - type: subscribe
   options:
     url: https://github.com/liushengweinielulu/V2RAY/raw/main/V2
 
-# 订阅链接/webdao
+# 订阅链接webdao
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/webdao/v2ray/master/nodes.txt
 
-# 订阅链接/learnhard-cn
+# 订阅链接learnhard-cn
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/free
 
-# 订阅链接/learnhard-cn
+# 订阅链接learnhard-cn
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/ss/sssub
 
-# 订阅链接/learnhard-cn
+# 订阅链接learnhard-cn
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/ssr/ssrsub
 
-# 订阅链接/learnhard-cn
+# 订阅链接learnhard-cn
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/v2ray/v2raysub
 
-# 订阅链接/ermaozi
+# 订阅链接ermaozi
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
 
-# 订阅链接/yun.xiaoyao01.com
+# 订阅链接yun.xiaoyao01.com
 - type: subscribe
   options:
     url: https://yun.xiaoyao01.com/dingyue/fenxiang.txt
 
-# 订阅链接/v2ray-links
+# 订阅链接v2ray-links
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/v2ray-links/v2ray-free/master/v2ray
+
 
 
 #################################################################################
@@ -199,6 +200,7 @@
 - type: webfuzz
   options:
     url: https://www.cfmem.com
+
 
 
 #################################################################################
@@ -396,6 +398,7 @@
   num: 200
 
 
+
 #################################################################################
 
 # 翻墙党论坛抓取
@@ -467,7 +470,7 @@
   options:
     url:  https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/clash/config.yaml
 
-# clash格式订阅链接11
+# clash格式订阅链接12
 - type: clash
   options:
     url:  https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
@@ -476,152 +479,152 @@
 
 #################################################################################
 
-# 订阅链接/fq.lonxin.net
+# 订阅链接fq.lonxin.net
 - type: subscribe
   options:
     url: https://fq.lonxin.net/ss/sub
 
-# 订阅链接/fq.lonxin.net
+# 订阅链接fq.lonxin.net
 - type: subscribe
   options:
     url: https://fq.lonxin.net/sip002/sub
 
-# 订阅链接/fq.lonxin.net
+# 订阅链接fq.lonxin.net
 - type: subscribe
   options:
     url: https://fq.lonxin.net/ssr/sub
 
-# 订阅链接/fq.lonxin.net
+# 订阅链接fq.lonxin.net
 - type: subscribe
   options:
     url: https://fq.lonxin.net/vmess/sub
 
-# 订阅链接/fq.lonxin.net
+# 订阅链接fq.lonxin.net
 - type: subscribe
   options:
     url: https://fq.lonxin.net/trojan/sub
 
-# 订阅链接/free.dswang.ga
+# 订阅链接free.dswang.ga
 - type: subscribe
   options:
     url: https://free.dswang.ga/ss/sub
 
-# 订阅链接/free.dswang.ga
+# 订阅链接free.dswang.ga
 - type: subscribe
   options:
     url: https://free.dswang.ga/sip002/sub
 
-# 订阅链接/free.dswang.ga
+# 订阅链接free.dswang.ga
 - type: subscribe
   options:
     url: https://free.dswang.ga/ssr/sub
 
-# 订阅链接/free.dswang.ga
+# 订阅链接free.dswang.ga
 - type: subscribe
   options:
     url: https://free.dswang.ga/vmess/sub
 
-# 订阅链接/free.dswang.ga
+# 订阅链接free.dswang.ga
 - type: subscribe
   options:
     url: https://free.dswang.ga/trojan/sub
 
-# 订阅链接/free.kingfu.cf
+# 订阅链接free.kingfu.cf
 - type: subscribe
   options:
     url: https://free.kingfu.cf/ss/sub
 
-# 订阅链接/free.kingfu.cf
+# 订阅链接free.kingfu.cf
 - type: subscribe
   options:
     url: https://free.kingfu.cf/sip002/sub
 
-# 订阅链接/free.kingfu.cf
+# 订阅链接free.kingfu.cf
 - type: subscribe
   options:
     url: https://free.kingfu.cf/ssr/sub
 
-# 订阅链接/free.kingfu.cf
+# 订阅链接free.kingfu.cf
 - type: subscribe
   options:
     url: https://free.kingfu.cf/vmess/sub
 
-# 订阅链接/free.kingfu.cf
+# 订阅链接free.kingfu.cf
 - type: subscribe
   options:
     url: https://free.kingfu.cf/trojan/sub
 
-# 订阅链接/sspool.herokuapp.com
+# 订阅链接sspool.herokuapp.com
 - type: subscribe
   options:
     url: https://sspool.herokuapp.com/ss/sub
 
-# 订阅链接/sspool.herokuapp.com
+# 订阅链接sspool.herokuapp.com
 - type: subscribe
   options:
     url: https://sspool.herokuapp.com/sip002/sub
 
-# 订阅链接/sspool.herokuapp.com
+# 订阅链接sspool.herokuapp.com
 - type: subscribe
   options:
     url: https://sspool.herokuapp.com/ssr/sub
 
-# 订阅链接/sspool.herokuapp.com
+# 订阅链接sspool.herokuapp.com
 - type: subscribe
   options:
     url: https://sspool.herokuapp.com/vmess/sub
 
-# 订阅链接“sspool.herokuapp.com”
+# 订阅链接sspool.herokuapp.com
 - type: subscribe
   options:
     url: https://sspool.herokuapp.com/trojan/sub
 
-# 订阅链接/www.linbaoz.com
+# 订阅链接www.linbaoz.com
 - type: subscribe
   options:
     url: https://www.linbaoz.com/ss/sub
 
-# 订阅链接/www.linbaoz.com
+# 订阅链接www.linbaoz.com
 - type: subscribe
   options:
     url: https://www.linbaoz.com/sip002/sub
 
-# 订阅链接/www.linbaoz.com
+# 订阅链接www.linbaoz.com
 - type: subscribe
   options:
     url: https://www.linbaoz.com/ssr/sub
 
-# 订阅链接/www.linbaoz.com
+# 订阅链接www.linbaoz.com
 - type: subscribe
   options:
     url: https://www.linbaoz.com/vmess/sub
 
-# 订阅链接/www.linbaoz.com
+# 订阅链接www.linbaoz.com
 - type: subscribe
   options:
     url: https://www.linbaoz.com/trojan/sub
 
-# 订阅链接/proxy.yugogo.xyz
+# 订阅链接proxy.yugogo.xyz
 - type: subscribe
   options:
     url: https://proxy.yugogo.xyz/ss/sub
 
-# 订阅链接/proxy.yugogo.xyz
+# 订阅链接proxy.yugogo.xyz
 - type: subscribe
   options:
     url: https://proxy.yugogo.xyz/sip002/sub
 
-# 订阅链接/proxy.yugogo.xyz
+# 订阅链接proxy.yugogo.xyz
 - type: subscribe
   options:
     url: https://proxy.yugogo.xyz/ssr/sub
 
-# 订阅链接/proxy.yugogo.xyz
+# 订阅链接proxy.yugogo.xyz
 - type: subscribe
   options:
     url: https://proxy.yugogo.xyz/vmess/sub
 
-# 订阅链接/proxy.yugogo.xyz
+# 订阅链接proxy.yugogo.xyz
 - type: subscribe
   options:
     url: https://proxy.yugogo.xyz/trojan/sub
