@@ -342,6 +342,15 @@
 
 
 #################################################################################
+# 翻墙党论坛抓取
+
+- type: web-fanqiangdang
+  options:
+    url: https://fanqiangdang.com/forum-48-1.html
+
+
+
+#################################################################################
 # clash格式订阅链接
 
 - type: clash
@@ -395,65 +404,6 @@
 - type: clash
   options:
     url:  https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
-
-
-
-#################################################################################
-
-# clash格式订阅链接
-- type: clash
-  options:
-    url: https://raw.githubusercontent.com/du5/free/master/file/0909/Clash.yaml
-
-
-- type: clash
-  options:
-    url: https://raw.githubusercontent.com/ssrsub/ssr/master/Clash.yml
-
-# clash格式订阅链接2
-- type: clash
-  options:
-    url: https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.yml
-
-# clash格式订阅链接3
-- type: clash
-  options:
-    url:  https://raw.githubusercontent.com/huaxinCLUB/NodeSpider/master/newYaml/mattkaydiary.yaml
-
-# clash格式订阅链接4
-- type: clash
-  options:
-    url:  https://raw.githubusercontent.com/clashconfig/online/main/SurfShark(50168).yml
-
-# clash格式订阅链接5
-- type: clash
-  options:
-    url:  https://raw.githubusercontent.com/skywolf627/VmessActions/main/subscribe/clash.yml
-
-# clash格式订阅链接6
-- type: clash
-  options:
-    url:  https://raw.githubusercontent.com/zyzmzyz/free-nodes/master/Clash.yml
-
-# clash格式订阅链接7
-- type: clash
-  options:
-    url:  https://raw.githubusercontent.com/oslook/clash-freenode/main/clash.yaml
-
-# clash格式订阅链接8
-- type: clash
-  options:
-    url:  https://raw.githubusercontent.com/Happyflying666/clash/main/list
-
-# clash格式订阅链接9
-- type: clash
-  options:
-    url:  https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
-
-# clash格式订阅链接10
-- type: clash
-  options:
-    url:  https://raw.githubusercontent.com/chfchf0306/clash/main/clash
 
 
 
@@ -588,7 +538,11 @@
 
 
 #################################################################################
-
 # 某个网站抓取
+
+- type: web-freessrxyz
+  options:
+    url: https://www.cfmem.com
+
 - type: web-freessrxyz
   options: 
