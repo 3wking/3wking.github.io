@@ -554,278 +554,131 @@
 
 #################################################################################
 
-# 订阅链接“fq.lonxin.net”
+# 订阅链接"fq.lonxin.net"
 - type: subscribe
   options:
     url: https://fq.lonxin.net/ss/sub
 
-# 订阅链接“fq.lonxin.net”
 - type: subscribe
   options:
     url: https://fq.lonxin.net/sip002/sub
 
-# 订阅链接“fq.lonxin.net”
 - type: subscribe
   options:
     url: https://fq.lonxin.net/ssr/sub
 
-# 订阅链接“fq.lonxin.net”
 - type: subscribe
   options:
     url: https://fq.lonxin.net/vmess/sub
 
-# 订阅链接“fq.lonxin.net”
 - type: subscribe
   options:
     url: https://fq.lonxin.net/trojan/sub
 
-# 订阅链接“free.dswang.ga”
+# 订阅链接"free.dswang.ga"
 - type: subscribe
   options:
     url: https://free.dswang.ga/ss/sub
 
-# 订阅链接“free.dswang.ga”
 - type: subscribe
   options:
     url: https://free.dswang.ga/sip002/sub
 
-# 订阅链接“free.dswang.ga”
 - type: subscribe
   options:
     url: https://free.dswang.ga/ssr/sub
 
-# 订阅链接“free.dswang.ga”
 - type: subscribe
   options:
     url: https://free.dswang.ga/vmess/sub
 
-# 订阅链接“free.dswang.ga”
 - type: subscribe
   options:
     url: https://free.dswang.ga/trojan/sub
 
-# 订阅链接“free.kingfu.cf”
+# 订阅链接"free.kingfu.cf"
 - type: subscribe
   options:
     url: https://free.kingfu.cf/ss/sub
 
-# 订阅链接“free.kingfu.cf”
 - type: subscribe
   options:
     url: https://free.kingfu.cf/sip002/sub
 
-# 订阅链接“free.kingfu.cf”
 - type: subscribe
   options:
     url: https://free.kingfu.cf/ssr/sub
 
-# 订阅链接“free.kingfu.cf”
 - type: subscribe
   options:
     url: https://free.kingfu.cf/vmess/sub
 
-# 订阅链接“free.kingfu.cf”
 - type: subscribe
   options:
     url: https://free.kingfu.cf/trojan/sub
 
-# 订阅链接“free886.herokuapp.com”
-- type: subscribe
-  options:
-    url: https://free.kingfu.cf/ss/sub
-
-# 订阅链接“free886.herokuapp.com”
-- type: subscribe
-  options:
-    url: https://free.kingfu.cf/sip002/sub
-
-# 订阅链接“free886.herokuapp.com”
-- type: subscribe
-  options:
-    url: https://free.kingfu.cf/ssr/sub
-- type: subscribe
-  options:
-    url: https://free.kingfu.cf/vmess/sub
-
-# 订阅链接“free886.herokuapp.com”
-- type: subscribe
-  options:
-    url: https://free.kingfu.cf/trojan/sub
-
-# 订阅链接“hello.stgod.com”
-- type: subscribe
-  options:
-    url: https://free.kingfu.cf/ss/sub
-
-# 订阅链接“hello.stgod.com”
-- type: subscribe
-  options:
-    url: https://free.kingfu.cf/sip002/sub
-
-# 订阅链接“hello.stgod.com”
-- type: subscribe
-  options:
-    url: https://free.kingfu.cf/ssr/sub
-
-# 订阅链接“hello.stgod.com”
-- type: subscribe
-  options:
-    url: https://free.kingfu.cf/vmess/sub
-
-# 订阅链接“hello.stgod.com”
-- type: subscribe
-  options:
-    url: https://free.kingfu.cf/trojan/sub
-
-# 订阅链接“ss.dswang.ga:8443”
-- type: subscribe
-  options:
-    url: https://free.dswang.ga/ss/sub
-
-# 订阅链接“ss.dswang.ga:8443”
-- type: subscribe
-  options:
-    url: https://free.dswang.ga/sip002/sub
-
-# 订阅链接“ss.dswang.ga:8443”
-- type: subscribe
-  options:
-    url: https://free.dswang.ga/ssr/sub
-
-# 订阅链接“ss.dswang.ga:8443”
-- type: subscribe
-  options:
-    url: https://free.dswang.ga/vmess/sub
-
-# 订阅链接“ss.dswang.ga:8443”
-- type: subscribe
-  options:
-    url: https://free.dswang.ga/trojan/sub
-
-# 订阅链接“sspool.nl”
+# 订阅链接"sspool.herokuapp.com"
 - type: subscribe
   options:
     url: https://sspool.herokuapp.com/ss/sub
 
-# 订阅链接“sspool.nl”
 - type: subscribe
   options:
     url: https://sspool.herokuapp.com/sip002/sub
 
-# 订阅链接“sspool.nl”
 - type: subscribe
   options:
     url: https://sspool.herokuapp.com/ssr/sub
 
-# 订阅链接“sspool.nl”
 - type: subscribe
   options:
     url: https://sspool.herokuapp.com/vmess/sub
 
-# 订阅链接“sspool.nl”
 - type: subscribe
   options:
     url: https://sspool.herokuapp.com/trojan/sub
 
-# 订阅链接“6166888.xyz”
-- type: subscribe
-  options:
-    url: https://sspool.herokuapp.com/ss/sub
-
-# 订阅链接“6166888.xyz”
-- type: subscribe
-  options:
-    url: https://sspool.herokuapp.com/sip002/sub
-
-# 订阅链接“6166888.xyz”
-- type: subscribe
-  options:
-    url: https://sspool.herokuapp.com/ssr/sub
-
-# 订阅链接“6166888.xyz”
-- type: subscribe
-  options:
-    url: https://sspool.herokuapp.com/vmess/sub
-
-# 订阅链接“6166888.xyz”
-- type: subscribe
-  options:
-    url: https://sspool.herokuapp.com/trojan/sub
-
-# 订阅链接“proxypool.fly.dev”
-- type: subscribe
-  options:
-    url: https://proxypool.fly.dev/ss/sub
-
-# 订阅链接“proxypool.fly.dev”
-- type: subscribe
-  options:
-    url: https://proxypool.fly.dev/sip002/sub
-
-# 订阅链接“proxypool.fly.dev”
-- type: subscribe
-  options:
-    url: https://proxypool.fly.dev/ssr/sub
-
-# 订阅链接“proxypool.fly.dev”
-- type: subscribe
-  options:
-    url: https://proxypool.fly.dev/vmess/sub
-
-# 订阅链接“proxypool.fly.dev”
-- type: subscribe
-  options:
-    url: https://proxypool.fly.dev/trojan/sub
-
-# 订阅链接“proxypool-guest997.herokuapp.com”
-- type: subscribe
-  options:
-    url: https://proxypool-guest997.herokuapp.com/ss/sub
-
-# 订阅链接“proxypool-guest997.herokuapp.com”
-- type: subscribe
-  options:
-    url: https://proxypool-guest997.herokuapp.com/sip002/sub
-
-# 订阅链接“proxypool-guest997.herokuapp.com”
-- type: subscribe
-  options:
-    url: https://proxypool-guest997.herokuapp.com/ssr/sub
-
-# 订阅链接“proxypool-guest997.herokuapp.com”
-- type: subscribe
-  options:
-    url: https://proxypool-guest997.herokuapp.com/vmess/sub
-
-# 订阅链接“proxypool-guest997.herokuapp.com”
-- type: subscribe
-  options:
-    url: https://proxypool-guest997.herokuapp.com/trojan/sub
-
-# 订阅链接“www.linbaoz.com”
+# 订阅链接"www.linbaoz.com"
 - type: subscribe
   options:
     url: https://www.linbaoz.com/ss/sub
 
-# 订阅链接“www.linbaoz.com”
 - type: subscribe
   options:
     url: https://www.linbaoz.com/sip002/sub
 
-# 订阅链接“www.linbaoz.com”
 - type: subscribe
   options:
     url: https://www.linbaoz.com/ssr/sub
 
-# 订阅链接“www.linbaoz.com”
 - type: subscribe
   options:
     url: https://www.linbaoz.com/vmess/sub
 
-# 订阅链接“www.linbaoz.com”
 - type: subscribe
   options:
     url: https://www.linbaoz.com/trojan/sub
+
+# 订阅链接"proxy.yugogo.xyz"
+- type: subscribe
+  options:
+    url: https://proxy.yugogo.xyz/ss/sub
+
+- type: subscribe
+  options:
+    url: https://proxy.yugogo.xyz/sip002/sub
+
+- type: subscribe
+  options:
+    url: https://proxy.yugogo.xyz/ssr/sub
+
+- type: subscribe
+  options:
+    url: https://proxy.yugogo.xyz/vmess/sub
+
+- type: subscribe
+  options:
+    url: https://proxy.yugogo.xyz/trojan/sub
 
 
 
