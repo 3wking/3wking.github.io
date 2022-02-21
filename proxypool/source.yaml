@@ -1,16 +1,6 @@
 # 模糊抓取订阅链接
 - type: webfuzzsub
   options:
-    url:https://3wking.github.io/proxypool/proxypool.list
-
-# 模糊抓取订阅链接
-- type: webfuzzsub
-  options:
-    url:https://3wking.github.io/proxypool/sub.list
-
-# 模糊抓取订阅链接
-- type: webfuzzsub
-  options:
     url: https://raw.githubusercontent.com/du5/free/master/sub.list
 
 # 模糊抓取订阅链接
