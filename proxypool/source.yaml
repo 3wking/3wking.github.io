@@ -1,54 +1,41 @@
-# 模糊抓取订阅链接1
+# 模糊抓取订阅链接"du5"
 - type: webfuzzsub
   options:
     url: https://raw.githubusercontent.com/du5/free/master/sub.list
 
-# 模糊抓取订阅链接2
+# 模糊抓取订阅链接"huaxinCLUB"
 - type: webfuzzsub
   options:
     url: https://github.com/huaxinCLUB/NodeSpider/tree/master/WebSite
 
-# 模糊抓取订阅链接3
+# 模糊抓取订阅链接"clashconfig"
 - type: webfuzzsub
   options:
     url: https://github.com/clashconfig/online
 
-# 模糊抓取订阅链接4
+# 模糊抓取订阅链接"shoujiyanxishe"
 - type: webfuzzsub
   options:
     url: https://raw.githubusercontent.com/shoujiyanxishe/atu/main/etsub.list
 
-# 模糊抓取订阅链接5
-- type: webfuzzsub
-  options:
-    url: http://i.sqeven.me/discuss/detail/104
-
-# 模糊抓取订阅链接6
-- type: webfuzzsub
-  options:
-    url: http://i.sqeven.me/know/detail/103
-
-# 模糊抓取订阅链接7
-- type: webfuzzsub
-  options:
-    url: http://i.sqeven.me/know/detail/102
-
-# 模糊抓取订阅链接8
-- type: webfuzzsub
-  options:
-    url: http://i.sqeven.me/know/detail/100
-
-# 模糊抓取订阅链接9
 - type: webfuzzsub
   options:
     url: https://raw.githubusercontent.com/shoujiyanxishe/atu/main/etproxytest
 
-# 模糊抓取订阅链接10
+# 模糊抓取订阅链接"i.sqeven.me"
 - type: webfuzzsub
   options:
-    url: https://api.ikuuu.science/link/iogQsfIRY9TU9VmO?sub=3&extend=1
+    url: http://i.sqeven.me/discuss/detail/104
 
-# 模糊抓取订阅链接10
+- type: webfuzzsub
+  options:
+    url: http://i.sqeven.me/discuss/detail/102
+
+- type: webfuzzsub
+  options:
+    url: http://i.sqeven.me/discuss/detail/100
+
+# 模糊抓取订阅链接"raw.fastgit.org"
 - type: webfuzzsub
   options:
     url: https://raw.fastgit.org/freefq/free/master/v2
