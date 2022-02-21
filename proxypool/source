@@ -643,8 +643,6 @@
 - type: subscribe
   options:
     url: https://free.kingfu.cf/ssr/sub
-
-# 订阅链接“free886.herokuapp.com”
 - type: subscribe
   options:
     url: https://free.kingfu.cf/vmess/sub
