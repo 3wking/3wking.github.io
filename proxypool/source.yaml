@@ -1,3 +1,12 @@
+# 模糊抓取订阅链接"3wking"
+- type: webfuzzsub
+  options:
+    url: https://3wking.github.io/proxypool/proxypool.list
+
+- type: webfuzzsub
+  options:
+    url: https://3wking.github.io/proxypool/sub.list
+
 # 模糊抓取订阅链接"du5"
 - type: webfuzzsub
   options:
