@@ -554,7 +554,131 @@
 
 #################################################################################
 
+# 订阅链接"fq.lonxin.net"
+- type: subscribe
+  options:
+    url: https://fq.lonxin.net/ss/sub
 
+- type: subscribe
+  options:
+    url: https://fq.lonxin.net/sip002/sub
+
+- type: subscribe
+  options:
+    url: https://fq.lonxin.net/ssr/sub
+
+- type: subscribe
+  options:
+    url: https://fq.lonxin.net/vmess/sub
+
+- type: subscribe
+  options:
+    url: https://fq.lonxin.net/trojan/sub
+
+# 订阅链接"free.dswang.ga"
+- type: subscribe
+  options:
+    url: https://free.dswang.ga/ss/sub
+
+- type: subscribe
+  options:
+    url: https://free.dswang.ga/sip002/sub
+
+- type: subscribe
+  options:
+    url: https://free.dswang.ga/ssr/sub
+
+- type: subscribe
+  options:
+    url: https://free.dswang.ga/vmess/sub
+
+- type: subscribe
+  options:
+    url: https://free.dswang.ga/trojan/sub
+
+# 订阅链接"free.kingfu.cf"
+- type: subscribe
+  options:
+    url: https://free.kingfu.cf/ss/sub
+
+- type: subscribe
+  options:
+    url: https://free.kingfu.cf/sip002/sub
+
+- type: subscribe
+  options:
+    url: https://free.kingfu.cf/ssr/sub
+
+- type: subscribe
+  options:
+    url: https://free.kingfu.cf/vmess/sub
+
+- type: subscribe
+  options:
+    url: https://free.kingfu.cf/trojan/sub
+
+# 订阅链接"sspool.herokuapp.com"
+- type: subscribe
+  options:
+    url: https://sspool.herokuapp.com/ss/sub
+
+- type: subscribe
+  options:
+    url: https://sspool.herokuapp.com/sip002/sub
+
+- type: subscribe
+  options:
+    url: https://sspool.herokuapp.com/ssr/sub
+
+- type: subscribe
+  options:
+    url: https://sspool.herokuapp.com/vmess/sub
+
+- type: subscribe
+  options:
+    url: https://sspool.herokuapp.com/trojan/sub
+
+# 订阅链接"www.linbaoz.com"
+- type: subscribe
+  options:
+    url: https://www.linbaoz.com/ss/sub
+
+- type: subscribe
+  options:
+    url: https://www.linbaoz.com/sip002/sub
+
+- type: subscribe
+  options:
+    url: https://www.linbaoz.com/ssr/sub
+
+- type: subscribe
+  options:
+    url: https://www.linbaoz.com/vmess/sub
+
+- type: subscribe
+  options:
+    url: https://www.linbaoz.com/trojan/sub
+
+# 订阅链接"proxy.yugogo.xyz"
+- type: subscribe
+  options:
+    url: https://proxy.yugogo.xyz/ss/sub
+
+- type: subscribe
+  options:
+    url: https://proxy.yugogo.xyz/sip002/sub
+
+- type: subscribe
+  options:
+    url: https://proxy.yugogo.xyz/ssr/sub
+
+- type: subscribe
+  options:
+    url: https://proxy.yugogo.xyz/vmess/sub
+
+- type: subscribe
+  options:
+    url: https://proxy.yugogo.xyz/trojan/sub
 
 
 
