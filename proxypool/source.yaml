@@ -634,7 +634,7 @@
 - type: web-freessrxyz
   options:
     url: https://www.cfmem.com
-    
+
 # 某个网站抓取
 - type: web-freessrxyz
   options:
