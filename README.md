@@ -1,6 +1,6 @@
 ## source配置
 ```sh
-https://3wking.github.io/proxypool/source.yaml
+https://3wking.github.io/proxypool/source.conf
 ```
 ## 编译GO源码下载
 ```sh
