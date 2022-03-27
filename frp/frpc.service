@@ -1,10 +1,11 @@
 [Unit]
-Description=Frp Server Service
-After=network.target
+Description=frps service
+After=network.target  syslog.target
+Wants=network.target
 
 [Service]
 Type=simple
-ExecStart=/etc/FRP/frps -c /etc/FRP/frps.ini
+ExecStart=/usr/local/frps/frps -c /usr/local/frps/frps.ini
 
 [Install]
 WantedBy=multi-user.target
