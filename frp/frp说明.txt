@@ -1,5 +1,7 @@
 使用systemctl来控制启动：
 /usr/lib/systemd/system/frps.service
+开机启动目录：
+/etc/systemd/system/multi-user.target.wants/
 
 启动frps
 sudo systemctl start frps
