@@ -1,3 +1,7 @@
+## 安装frps服务端
+```sh
+wget https://3wking.github.io/frp/frps.sh && chmod 777 frps.sh && ./frps.sh
+```
 ## source配置
 ```sh
 https://3wking.github.io/proxypool/source.conf
