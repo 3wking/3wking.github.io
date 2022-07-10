@@ -14,7 +14,7 @@ rem 编译版本选择 GOARCH=amd64 默认64位 , 32位= 368
 SET GOARCH=amd64
 @ echo. ======================================
 @ echo.  go build
-go build
+go build -ldflags="-w -s"
 @ echo.
 @ echo.
 @ echo.
