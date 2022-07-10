@@ -58,7 +58,7 @@ goto Menu
 =========================================================================
 :x86_X64
 @ echo.
-SET CGO_ENABLED=0&& SET GOOS=windows&& SET GOARCH=amd64&& go build
+SET CGO_ENABLED=0&& SET GOOS=windows&& SET GOARCH=amd64&& go build -ldflags="-w -s"
 @ echo.
 @ echo.
 @ echo.======================
@@ -70,7 +70,7 @@ goto Menu
 =========================================================================
 :x86_X32
 @ echo.
-SET CGO_ENABLED=0&& SET GOOS=windows&& SET GOARCH=368&& go build
+SET CGO_ENABLED=0&& SET GOOS=windows&& SET GOARCH=368&& go build -ldflags="-w -s"
 @ echo.
 @ echo.
 @ echo.======================
@@ -82,7 +82,7 @@ goto Menu
 --------------------------------
 :mac_X64
 @ echo.
-SET CGO_ENABLED=0&& SET GOOS=darwin&& SET GOARCH=amd64&& go build
+SET CGO_ENABLED=0&& SET GOOS=darwin&& SET GOARCH=amd64&& go build -ldflags="-w -s"
 @ echo.
 @ echo.
 @ echo.======================
@@ -94,7 +94,7 @@ goto Menu
 -------------------------------------------
 :mac_X32
 @ echo.
-SET CGO_ENABLED=0&& SET GOOS=darwin&& SET GOARCH=368&& go build
+SET CGO_ENABLED=0&& SET GOOS=darwin&& SET GOARCH=368&& go build -ldflags="-w -s"
 @ echo.
 @ echo.
 @ echo.======================
